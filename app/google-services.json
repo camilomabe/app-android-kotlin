@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606099214402",
+    "project_id": "finalapp-4ff5b",
+    "storage_bucket": "finalapp-4ff5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606099214402:android:ca98b43baa2401abd41ddb",
+        "android_client_info": {
+          "package_name": "com.camilomamian.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606099214402-ocqe7vd4tkl3msrtdjt5ep7to0dl61fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPYnRxqMuxJyOIy6R4hNZ5opHjY0zbZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606099214402-ocqe7vd4tkl3msrtdjt5ep7to0dl61fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
